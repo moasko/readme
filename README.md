@@ -1,3 +1,3 @@
 # readme
 
-#je suis moasko 
+#je suis moasko debutant en developpement web
